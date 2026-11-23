@@ -1,0 +1,14 @@
+C:\Users\rcanc\examen 3er parcial roger\bin\Debug\net10.0\examen 3er parcial roger.exe
+C:\Users\rcanc\examen 3er parcial roger\bin\Debug\net10.0\examen 3er parcial roger.deps.json
+C:\Users\rcanc\examen 3er parcial roger\bin\Debug\net10.0\examen 3er parcial roger.runtimeconfig.json
+C:\Users\rcanc\examen 3er parcial roger\bin\Debug\net10.0\examen 3er parcial roger.dll
+C:\Users\rcanc\examen 3er parcial roger\bin\Debug\net10.0\examen 3er parcial roger.pdb
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.AssemblyInfoInputs.cache
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.AssemblyInfo.cs
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.csproj.CoreCompileInputs.cache
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.dll
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\refint\examen 3er parcial roger.dll
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.pdb
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\examen 3er parcial roger.genruntimeconfig.cache
+C:\Users\rcanc\examen 3er parcial roger\obj\Debug\net10.0\ref\examen 3er parcial roger.dll
